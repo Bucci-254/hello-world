@@ -1,2 +1,2 @@
-# hello-world
-This repository is for practicing the Github Flow
+
+That guy again,normal Kenyan living of what life has to throw at me chilled though
